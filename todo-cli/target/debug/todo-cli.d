@@ -1,1 +1,1 @@
-/mnt/c/Users/zque/rust/todo/todo-cli/target/debug/todo-cli: /mnt/c/Users/zque/rust/todo/todo-cli/src/main.rs
+/Users/ethanjohnwesley/Projects/rust/todo/Rust-To-Do-List-App/todo-cli/target/debug/todo-cli: /Users/ethanjohnwesley/Projects/rust/todo/Rust-To-Do-List-App/todo-cli/src/main.rs
